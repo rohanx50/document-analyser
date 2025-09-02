@@ -23,6 +23,9 @@ Web Interface + REST API – Use via browser or programmatically through APIs.
 
 
 
+<img width="1352" height="906" alt="image" src="https://github.com/user-attachments/assets/fcfa784a-fd8c-47e8-b66a-66b7402099e7" />
+
+
 
 
 
